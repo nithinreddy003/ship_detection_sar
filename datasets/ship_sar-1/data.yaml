@@ -1,0 +1,12 @@
+names:
+- ship
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: ship_sar-izwif
+  url: https://universe.roboflow.com/shipsardata/ship_sar-izwif/dataset/1
+  version: 1
+  workspace: shipsardata
+test: test/images
+train: train/images
+val: valid/images

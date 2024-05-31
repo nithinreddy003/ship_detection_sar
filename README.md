@@ -23,6 +23,10 @@ I have used one stage object detection model YOLOv8 architecture to detect the s
 | Precision  | 91.2  |
 | Recall  | 84.8  |
 
+![results](https://github.com/nithinreddy003/ship_detection_sar/assets/104730933/0e9afefc-dfa1-463d-bb52-349aaec472d4)
+![confusion_matrix](https://github.com/nithinreddy003/ship_detection_sar/assets/104730933/3ab2c9a6-6a60-4c9e-861f-5fb7885f0291)
+
+
 # Test Case Images
 
 

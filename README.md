@@ -28,6 +28,8 @@ I have used one stage object detection model YOLOv8 architecture to detect the s
 
 
 # Test Case Images
+![val_batch2_pred](https://github.com/nithinreddy003/ship_detection_sar/assets/104730933/462030e5-0928-46b0-afed-33e4cd9a4b82)
+![val_batch2_labels](https://github.com/nithinreddy003/ship_detection_sar/assets/104730933/0364b688-9eaf-4907-b925-7564650621ec)
 
 
 

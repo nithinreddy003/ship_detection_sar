@@ -33,4 +33,5 @@ I have used one stage object detection model YOLOv8 architecture to detect the s
 
 
 
-Link:  https://colab.research.google.com/drive/1zrRBSLZ8TIjZ2CuVyXMzg2iOTky_PApW?usp=sharing
+# Colab Notebook 
+https://colab.research.google.com/drive/1zrRBSLZ8TIjZ2CuVyXMzg2iOTky_PApW?usp=sharing
